@@ -1,3 +1,7 @@
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&style=flat&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&style=flat)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&style=flat)
+
 # Modern UI Dashboard
 
 A sleek, responsive admin dashboard UI built with **Shadcn**, **Tailwind CSS**, and **Next.js**. This template is ideal for building modern internal tools, admin panels, or data-driven interfaces.
